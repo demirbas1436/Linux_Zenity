@@ -120,7 +120,7 @@ function generate_report() {
 ```
 
 ## Tanıtım Videosu
-Projenin kullanımıyla ilgili detaylı bir tanıtım videosunu [buradan izleyebilirsiniz](#).
+Projenin kullanımıyla ilgili detaylı bir tanıtım videosunu [https://www.youtube.com/watch?v=NfVmpycYMQc](#).
 
 ## Ekstra Kaynaklar
 Zenity hakkında daha fazla bilgi edinmek için bu [Medium yazısını](#) inceleyebilirsiniz.
