@@ -27,8 +27,7 @@ sudo apt-get install zenity
 
 1. Bu projeyi klonlayın veya dosyayı indirin:
    ```bash
-   git clone <git clone <proje-linki>
-cd <proje-dizini>>
+   git clone <https://github.com/demirbas1436/Linux_Zenity/blob/main/deneme2.sh>
    cd <proje-dizini>
    ```
 
