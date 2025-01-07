@@ -1,7 +1,7 @@
 # Proje Adı: Depo ve Kullanıcı Yönetimi Sistemi
 
 Bu proje, bir şirketin depo ve kullanıcı yönetimini kolaylaştırmak için tasarlanmış bir Bash scriptidir. Zenity kullanılarak grafiksel arayüz sunar ve ürün yönetimi, kullanıcı yönetimi, şifre sıfırlama ve hata kayıtları gibi birçok fonksiyonu destekler.
-
+Github Linki: https://github.com/demirbas1436/Linux_Zenity
 ## Özellikler
 
 - **Kullanıcı Doğrulama:** Kullanıcı adı ve şire ile giriş.
